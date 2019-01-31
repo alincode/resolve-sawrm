@@ -1,6 +1,6 @@
 {
   "name": "resolve-sawrm",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "resolve sawrm",
   "main": "src/index.js",
   "directories": {
