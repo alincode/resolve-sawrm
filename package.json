@@ -1,7 +1,7 @@
 {
-  "name": "resolve-sawrm",
-  "version": "0.0.1",
-  "description": "resolve sawrm",
+  "name": "resolve-swarm",
+  "version": "0.0.0",
+  "description": "resolve swarm",
   "main": "src/index.js",
   "directories": {
     "test": "test"
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alincode/resolve-sawrm.git"
+    "url": "git+https://github.com/alincode/resolve-swarm.git"
   },
   "keywords": [
-    "sawrm"
+    "swarm"
   ],
   "author": "alincode <alincode@gmail.com>",
   "license": "MIT",
