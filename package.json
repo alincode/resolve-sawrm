@@ -1,6 +1,6 @@
 {
   "name": "resolve-swarm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "resolve swarm",
   "main": "src/index.js",
   "directories": {
